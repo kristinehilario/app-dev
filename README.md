@@ -4,7 +4,7 @@ My first repository
 # HIT ME HARD AND SOFT ALBUM
 **Song lists**
 - Skinny
-- Birds of thr Feather
+- Birds of the Feather
 - Chihiro
 - Lunch
 - L’Amour de Ma Vie

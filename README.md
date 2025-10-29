@@ -1,7 +1,8 @@
 # app-dev
 My first repository
 
-#**HIT ME HARD AND SOFT ALBUM**
+# HIT ME HARD AND SOFT ALBUM
+**Song lists**
 - Skinny
 - Birds of thr Feather
 - Chihiro
